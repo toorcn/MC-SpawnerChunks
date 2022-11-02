@@ -1,0 +1,5 @@
+Default-Amount: 20
+Added-Max-Amount: 10
+Price-For-Each-Upgrade: 20000.00 
+Auto-SetBack: true
+Msg: true
